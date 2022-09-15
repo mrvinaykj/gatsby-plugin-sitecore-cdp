@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@babel/runtime": "^7.15.4",
-    "minimatch": "^3.1.2",
+    "minimatch": "^5.0.0",
     "react-sitecore-personalize": "^1.0.3"
   },
   "devDependencies": {
