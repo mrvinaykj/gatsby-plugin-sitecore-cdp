@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-sitecore-cdp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gatsby plugin to connect Sitecore CDP",
   "main": "index.js",
   "dependencies": {
