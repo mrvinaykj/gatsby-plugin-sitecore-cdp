@@ -21,13 +21,9 @@
   },
   "keywords": [
     "gatsby",
-    "gatsby",
     "plugin",
-    "gatsby",
-    "plugin",
-    "sitecore",
-    "gatsby",
-    "plugin",
+    "gatsby-plugin",
+    "gatsby-plugin-sitecore-cdp",
     "sitecore",
     "cdp"
   ],
